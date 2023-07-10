@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=740&t=st=1683203342~exp=1683203942~hmac=95c1d01a7981c609f2e3ded3985a813d027a12219cd5b64b143aad997241dfa1",
+    "chef_name": "Giuseppe Rossi",
+    "years_of_experience": 20,
+    "num_of_recipes": 150,
+    "likes": 3000,
+    "chef_description": "Chef Giuseppe Rossi is a seasoned chef with over 20 years of experience. He specializes in Italian cuisine and is known for his delicious pasta dishes.",
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": ["spaghetti", "bacon", "eggs", "parmesan cheese", "butter"],
+        "cooking_method": "Boil spaghetti, cook bacon, mix beaten eggs and grated parmesan cheese in a bowl. Drain pasta and toss with bacon, then pour egg mixture over pasta and stir until the eggs are cooked.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Fettuccine Alfredo",
+        "ingredients": ["fettuccine", "heavy cream", "butter", "parmesan cheese", "eggs"],
+        "cooking_method": "Cook pasta, then heat heavy cream and butter in a pan until melted. Add grated parmesan cheese and stir until the cheese has melted. Pour the sauce over the pasta and serve.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Fettuccine Alfredo",
+        "ingredients": ["fettuccine", "heavy cream", "butter", "parmesan cheese", "eggs"],
+        "cooking_method": "Cook pasta, then heat heavy cream and butter in a pan until melted. Add grated parmesan cheese and stir until the cheese has melted. Pour the sauce over the pasta and serve.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://img.freepik.com/free-photo/image-cheerful-young-cook-uniform-standing-isolated-grey-wall_171337-5340.jpg?w=740&t=st=1683203614~exp=1683204214~hmac=44f7154c5a48f49a47cf8cc06f17d471dc6ed753c47ea3105d77d60f1298845b",
+    "chef_name": "Maria Bianchi",
+    "years_of_experience": 15,
+    "num_of_recipes": 100,
+    "likes": 2500,
+    "chef_description": "Chef Maria Bianchi is a chef who specializes in Mexican cuisine. She has a passion for spicy flavors and loves to experiment with different types of peppers and spices.",
+    "recipes": [
+      {
+        "recipe_name": "Chile Rellenos",
+        "ingredients": ["poblano peppers", "ground beef", "onion", "garlic", "tomatoes"],
+        "cooking_method": "Roast the peppers, then stuff them with ground beef, onion, garlic, and tomatoes. Bake in the oven until the beef is cooked and the peppers are tender.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Enchiladas Verdes",
+        "ingredients": ["chicken", "tortillas", "tomatillos", "jalapeno peppers", "onion", "garlic", "cilantro"],
+        "cooking_method": "Cook chicken, then shred it. Blend tomatillos, jalapeno peppers, onion, garlic, and cilantro to make a sauce. Dip tortillas in the sauce, fill with chicken, and roll up. Bake in the oven until the tortillas are crispy.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": ["spaghetti", "bacon", "eggs", "parmesan cheese", "tortillas"],
+        "cooking_method": "Boil spaghetti, cook bacon, mix beaten eggs and grated parmesan cheese in a bowl. Drain pasta and toss with bacon, then pour egg mixture over pasta and stir until the eggs are cooked.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://img.freepik.com/free-photo/cook-uniform-holding-salad-showing-okay-gesture_171337-5345.jpg?w=740&t=st=1683203636~exp=1683204236~hmac=34022982627c480236aa16ec5fac4195180ca452b0c1dc95f485c88f8fb25723",
+    "chef_name": "Antonio Ricci",
+    "years_of_experience": 10,
+    "num_of_recipes": 75,
+    "likes": 2000,
+    "chef_description": "Chef Antonio Ricci is a chef who specializes in Mexican cuisine. She has a passion for spicy flavors and loves to experiment with different types of peppers and spices.",
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": ["spaghetti", "bacon", "eggs", "parmesan cheese", "tortillas"],
+        "cooking_method": "Boil spaghetti, cook bacon, mix beaten eggs and grated parmesan cheese in a bowl. Drain pasta and toss with bacon, then pour egg mixture over pasta and stir until the eggs are cooked.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Fettuccine Alfredo",
+        "ingredients": ["fettuccine", "heavy cream", "butter", "parmesan cheese", "tortillas"],
+        "cooking_method": "Cook pasta, then heat heavy cream and butter in a pan until melted. Add grated parmesan cheese and stir until the cheese has melted. Pour the sauce over the pasta and serve.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Chile Rellenos",
+        "ingredients": ["poblano peppers", "ground beef", "onion", "garlic", "tomatoes"],
+        "cooking_method": "Roast the peppers, then stuff them with ground beef, onion, garlic, and tomatoes. Bake in the oven until the beef is cooked and the peppers are tender.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683203672~exp=1683204272~hmac=18330d38861d970541043ee6da51d50ebd84acde9196af50939a0d2a1941b463",
+    "chef_name": "Roberto Neri",
+    "years_of_experience": 12,
+    "num_of_recipes": 80,
+    "likes": 2200,
+    "chef_description": "Chef Roberto Neri is a chef who specializes in Mexican cuisine. She has a passion for spicy flavors and loves to experiment with different types of peppers and spices.",
+    "recipes": [
+      {
+        "recipe_name": "Chile Rellenos",
+        "ingredients": ["poblano peppers", "ground beef", "onion", "garlic", "tomatoes"],
+        "cooking_method": "Roast the peppers, then stuff them with ground beef, onion, garlic, and tomatoes. Bake in the oven until the beef is cooked and the peppers are tender.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Enchiladas Verdes",
+        "ingredients": ["chicken", "tortillas", "tomatillos", "jalapeno peppers", "onion", "garlic", "cilantro"],
+        "cooking_method": "Cook chicken, then shred it. Blend tomatillos, jalapeno peppers, onion, garlic, and cilantro to make a sauce. Dip tortillas in the sauce, fill with chicken, and roll up. Bake in the oven until the tortillas are crispy.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": ["spaghetti", "bacon", "eggs", "parmesan cheese"],
+        "cooking_method": "Boil spaghetti, cook bacon, mix beaten eggs and grated parmesan cheese in a bowl. Drain pasta and toss with bacon, then pour egg mixture over pasta and stir until the eggs are cooked.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://img.freepik.com/free-photo/young-confident-afro-american-cook-chef-uniform-crosses-arms-keeps-hand-open-isolated-green-background-with-copy-space_141793-34900.jpg?w=740&t=st=1683203689~exp=1683204289~hmac=74fa6c84a1854493c6878537f44fa6df8cb1772f4081f213c41f0653cd4ea32b",
+    "chef_name": "Laura Esposito",
+    "years_of_experience": 8,
+    "num_of_recipes": 60,
+    "likes": 1800,
+    "chef_description": "Chef Laura Esposito is a chef who specializes in Mexican cuisine. She has a passion for spicy flavors and loves to experiment with different types of peppers and spices.",
+    "recipes": [
+      {
+        "recipe_name": "Chile Rellenos",
+        "ingredients": ["poblano peppers", "ground beef", "onion", "garlic", "tomatoes"],
+        "cooking_method": "Roast the peppers, then stuff them with ground beef, onion, garlic, and tomatoes. Bake in the oven until the beef is cooked and the peppers are tender.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Enchiladas Verdes",
+        "ingredients": ["chicken", "tortillas", "tomatillos", "jalapeno peppers", "onion", "garlic", "cilantro"],
+        "cooking_method": "Cook chicken, then shred it. Blend tomatillos, jalapeno peppers, onion, garlic, and cilantro to make a sauce. Dip tortillas in the sauce, fill with chicken, and roll up. Bake in the oven until the tortillas are crispy.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Fettuccine Alfredo",
+        "ingredients": ["fettuccine", "heavy cream", "butter", "parmesan cheese", "tortillas"],
+        "cooking_method": "Cook pasta, then heat heavy cream and butter in a pan until melted. Add grated parmesan cheese and stir until the cheese has melted. Pour the sauce over the pasta and serve.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683203794~exp=1683204394~hmac=f4cdb890fd120b906b4b415850e7ad7662dabd878b5910288fc45600378042cb",
+    "chef_name": "Mario Russo",
+    "years_of_experience": 18,
+    "num_of_recipes": 120,
+    "likes": 2800,
+    "chef_description": "Chef Mario Russo is a chef who specializes in Mexican cuisine. She has a passion for spicy flavors and loves to experiment with different types of peppers and spices.",
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": ["spaghetti", "bacon", "eggs", "parmesan cheese", "tortillas"],
+        "cooking_method": "Boil spaghetti, cook bacon, mix beaten eggs and grated parmesan cheese in a bowl. Drain pasta and toss with bacon, then pour egg mixture over pasta and stir until the eggs are cooked.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Fettuccine Alfredo",
+        "ingredients": ["fettuccine", "heavy cream", "butter", "parmesan cheese", "tortillas"],
+        "cooking_method": "Cook pasta, then heat heavy cream and butter in a pan until melted. Add grated parmesan cheese and stir until the cheese has melted. Pour the sauce over the pasta and serve.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Chile Rellenos",
+        "ingredients": ["poblano peppers", "ground beef", "onion", "garlic", "tomatoes"],
+        "cooking_method": "Roast the peppers, then stuff them with ground beef, onion, garlic, and tomatoes. Bake in the oven until the beef is cooked and the peppers are tender.",
+        "rating": 4.6
+      }
+    ]
+  }
+]
